@@ -21,4 +21,4 @@ Qualitative: Alley, BldgType, BsmtCond, BsmtExposure, BsmtFinType1, BsmtFinType2
 Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
 
 # Final Result 
-[]
+![Final Result picture](https://github.com/Mehrads/House-Prices-Advanced-Regression-Techniques/blob/main/Screenshot%201402-05-31%20at%2018.16.23.png)
